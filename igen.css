@@ -1,0 +1,14 @@
+body
+{
+    background-color: beige;
+    flex: flex;
+}
+
+.kor {
+    margin: 10px;
+    background-color: lightgray;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+    display: inline-block;
+}
